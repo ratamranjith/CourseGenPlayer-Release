@@ -64,16 +64,9 @@ To get started, head over to our Discussions tab and introduce yourself!
 ## 📄 License
 
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 ---
 
 *Built with ❤️ for lifelong learners.*
 
----
-
-> **Total Lines of Application Code**: ~3,100 lines
-> **Database Tables**: 9
-> **IPC Channels**: 20
-> **React Components**: 7
-> **Keyboard Shortcuts**: 9
