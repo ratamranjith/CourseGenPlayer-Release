@@ -48,6 +48,17 @@ LearnCreator has been upgraded to a premium learning suite offline player, packe
 
 ---
 
+## 📥 Download
+
+Download the latest version from the **GitHub Releases** page:
+
+[➡️ Download Latest Release](https://github.com/ratamranjith/CourseGenPlayer-Release/releases/latest)
+
+Or browse all releases:
+
+[📦 All Releases](https://github.com/ratamranjith/CourseGenPlayer-Release/releases)
+
+
 ## 👋 Community & Support
 
 We’re using **GitHub Discussions** as a place to connect with our users. 
